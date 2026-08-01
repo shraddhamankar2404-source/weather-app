@@ -1,0 +1,7 @@
+Weather-App/
+│
+├── index.html
+├── style.css
+├── script.js
+└── images/
+    └── (weather icons if needed)
